@@ -1,4 +1,5 @@
 # event-registration-app
+```
 event-registration-app
 │
 ├── backend
@@ -6,3 +7,4 @@ event-registration-app
 ├── admin-dashboard
 ├── docs
 └── README.md
+```
