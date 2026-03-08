@@ -5,6 +5,7 @@ event-registration-app
 ├── backend
 ├── mobile-app
 ├── admin-dashboard
-├── docs
+├── docx
+|---.gitignore
 └── README.md
 ```
